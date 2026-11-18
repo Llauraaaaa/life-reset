@@ -1,30 +1,20 @@
-# Nome do Projeto
+# Life Reset Versão Laura
 
-Uma frase dizendo o que o projeto é e para quem.
+App web de acompanhamento de hábitos com gamificação (XP, níveis e sequência de dias).
 
 **Status:** em desenvolvimento
 
-## Funcionalidades
-- [ ] Funcionalidade 1
-- [ ] Funcionalidade 2
+## Funcionalidades (Versão 1)
+- [ ] Cadastro e Login
+- [ ] Criar hábitos
+- [ ] Marcar hábito como feito no dia
+- [ ] Gamificação: XP, nível e streak
 
 ## Tecnologias
-Linguagem, framework, banco de dados, ferramentas.
-
-## Como rodar
-```bash
-# passo a passo para rodar o projeto localmente
-```
-
-## Variáveis de ambiente
-Liste os nomes das variáveis necessárias (nunca os valores).
-
-## Testes
-Como rodar os testes.
+Java, Spring Boot, MySQL
 
 ## Decisões de projeto
-Por que você escolheu cada tecnologia e arquitetura.
-(Esta seção é a que mais interessa a quem avalia.)
+(Preencher conforme o trabalho for tendo progresso.)
 
 ## Segurança
 Resumo das proteções e link para o SECURITY.md.
@@ -33,7 +23,7 @@ Resumo das proteções e link para o SECURITY.md.
 O que vem a seguir.
 
 ## Licença
-Tipo de licença (ver arquivo LICENSE).
+Tipo de licença MIT license.
 
 ## Autora
 Laura, https://www.linkedin.com/in/laura-luiza-36825736b/
